@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#note:use "sudo ./usermanagement" to run file  
+
 # Function to display usage information and available options
 function display_usage {
     echo "Usage: $0 [OPTIONS]"
